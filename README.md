@@ -18,7 +18,7 @@ Make sure you have Python installed on your machine.
    git clone https://github.com/your-username/appointment-scheduling.git
    cd appointment-scheduling
 
-    ```
+```
 # 2. Install the required dependencies:
 
 ```bash
@@ -59,4 +59,4 @@ John Doe,30
 Jane Smith,60
 Bob Johnson,45
 
-```bash
+```
