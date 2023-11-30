@@ -70,5 +70,5 @@ Bob Johnson,45
 ![alt text](Screenshots/doctors.png "Example")
 
 
-# OUTPUT : 
+## OUTPUT : 
 ![alt text](Screenshots/output.png "Example")
