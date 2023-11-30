@@ -60,3 +60,15 @@ Jane Smith,60
 Bob Johnson,45
 
 ```
+
+# SCREENSHOTS OF DATASET : 
+
+**Patients :**
+![alt text](Screenshots/patients.png "Example")
+
+**Doctors :**
+![alt text](Screenshots/doctors.png "Example")
+
+
+# OUTPUT : 
+![alt text](Screenshots/output.png "Example")
